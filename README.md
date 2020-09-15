@@ -84,8 +84,27 @@ execute click icon lightning
 
 <img src="https://i.ibb.co/GH5hPkb/document-8.jpg" alt="document-8" border="0">
 
+# BACKGROUND JOB ( WORKER )
 
+```
+background job i make manual
+background job will execute row if the row sent is null
+you can check on worker.php & you can check log in file log-workers.txt or http://localhost/log-workers.txt
 
+```
+# SMTP
+
+```
+i use ELASTICEMIAL
+you can check on /src/includes/Models/Api.php line 58
+
+```
+
+# OAuth2
+
+```
+Oauth2 i use for authentication API Send email
+```
 
 
 
